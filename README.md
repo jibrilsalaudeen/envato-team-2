@@ -9,3 +9,4 @@ HTML Template Project for Envato
 5. Confirm you are on the feature branch "git branch"
 6. Proceed with creating your html file and making your changes.
 7. When done with your feature branch, proceed with the normal git workflow and make a pull request to the develop branch.
+
